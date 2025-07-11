@@ -10,7 +10,7 @@
     const desconto = total % 1
     const valorfinal = total - desconto
 
-    resp.innerText = `Leve duas unidades por:${produto} por: ${valorfinal.toFixed(2)}`
+    resp.innerText = `Leve duas unidades de:${produto} por: ${valorfinal.toFixed(2)}`
     
     e.preventDefault()
 })
