@@ -1,0 +1,8 @@
+<meta charset="utf-8">
+<script>
+    const produto = prompt(`qual é o nome do produto ? `)
+    const preco = Number(prompt(`qual o preço do produto? `))
+    const soma = (50 * preco) / 100
+    const desconto = preco - soma
+    alert(` o produto ${produto} custa R$: ${preco.toFixed(2)}\nLeve 3 por R$: ${desconto.toFixed(2)}`)
+</script>
