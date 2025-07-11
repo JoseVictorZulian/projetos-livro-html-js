@@ -10,4 +10,14 @@ Você conhecer e clicar em qualquer um dos arquivos, mas aqui dero deixar destac
 - ...
 
 ## Como visualizar
-Abra o arquivo `index.html` em seu navegador.
+🔗 Ver Exercícios Funcionando
+
+Clique nos links abaixo para abrir cada exercício diretamente no navegador:
+
+- [Exercício 2.1](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_1.html)
+- [Exercício 2.2](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_2.html)
+- [Exercício 2.3](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_3.html)
+- [Exercício 2.4](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_4.html)
+- [Exercício 2.5](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_5.html)
+- [Exercício 2.6](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_6.html)
+- [Exercício 2.7](https://JoseVictorZulian.github.io/projetos-livro-html-js/ex2_7.html)
